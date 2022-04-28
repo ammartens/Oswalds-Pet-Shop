@@ -1,6 +1,6 @@
 ﻿/*
     font-family: "Yanone Kaffeesatz", sans-serif;
-    font-family: 'Quicksand', sans-serif;
+    font-family: "Quicksand", sans-serif;
 
     Text color: #303C6C;
     light blue/creme: #D2FDFF;
@@ -247,8 +247,8 @@ h2 {
 
 #subscribe {
     background-color: #F4976C;
-    height: 160px;
-    padding-top: 40px;
+    height: 130px;
+    padding-top: 30px;
 }
 
     #subscribe h2 {
@@ -259,10 +259,79 @@ h2 {
         font-weight: bold;
     }
 #subscribe input[type=text] {
-    border: 0;
-    width: 250px;
-    height: 28px;
-    font-size: 14px;
-    padding: 0 10px;
-    border-radius: 30px;
+        border: 0;
+        width: 250px;
+        height: 28px;
+        font-size: 14px;
+        padding: 0 10px;
+        border-radius: 30px;
 }
+
+#subscribe input[type=submit] {
+        border: 0;
+        width: 80px;
+        height: 30px;
+        font-size: 14px;
+        background-color: #5DA2D5;
+        color: white;
+        border-radius: 30px;
+        -webkit-transition: all 500ms ease-out;
+        transition: all 500ms ease-out;
+        cursor: pointer;
+
+    }
+        #subscribe input[type=submit]:hover {
+            background-color: #FBE8A6;
+            color: black;
+            -webkit-transition: all 500ms ease-out;
+            transition: all 500ms ease-out;
+    }
+
+#footer {
+    background-color: #F76C6C;
+    height: 80px;
+}
+
+#footer ul {
+        list-style-type: none;
+        margin: 28px 0 0 0;
+        padding: 0;
+        overflow: hidden;
+        display: inline-block;
+}
+
+   #footer li {
+        float: left;
+}
+
+#footer li a {
+            color: white;
+            text-align: center;
+            padding: 20px;
+            text-decoration: none;
+            font-size: 18px;
+            -webkit-transition: all 250ms linear;
+            transition: all 250ms linear;
+}
+
+            #footer li a:hover {
+                 color: #333;
+                 -webkit-transition: all 250ms linear;
+                 transition: all 250ms linear;
+
+}
+
+#copyright {
+    text-align: center;
+    background-color: #345995;
+    color: white;
+    height: 20px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    font-size: 12px;
+}
+
+    #copyright .logo {
+        font-family: "Quicksand";
+        font-weight: bold;
+    }
