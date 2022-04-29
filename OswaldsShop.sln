@@ -16,6 +16,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{A3CAD38E-3F09-470E-95C2-732A41D10DAF}"
 	ProjectSection(SolutionItems) = preProject
 		scripts\app.js = scripts\app.js
+		scripts\home.js = scripts\home.js
+		scripts\common.js = scripts\common.js
 	EndProjectSection
 EndProject
 Global

@@ -1,15 +1,20 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="scripts/app.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="index.html">
     <Files>
-      <File FileName="index.html" Line="11" Column="63" />
-      <File FileName="styles/global.css" Line="338" Column="1" />
-      <File FileName="scripts/app.js" Line="1" Column="1" />
+      <File FileName="index.html" Line="16" Column="8" />
+      <File FileName="styles/global.css" Line="305" Column="2" />
+      <File FileName="scripts/app.js" Line="12" Column="1" />
+      <File FileName="scripts/home.js" Line="27" Column="4" />
+      <File FileName="scripts/common.js" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OswaldsShop" expanded="True">
-            <Node name="scripts" selected="True" />
+            <Node name="scripts" expanded="True" />
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/arianamartens/Development/OswaldsShop/OswaldsShop/index.html" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
