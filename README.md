@@ -12,6 +12,44 @@ Interactive and Dynamic 'Pet Shop' website that can handle customized user inter
 ![App Screenshot](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/66285c94-5a79-425c-9607-c753fc34990b.gif?ClientID=vimeo-core-prod&Date=1651601643&Signature=a7fde2d94348ecd7966fb77a997cf7a2b5289c41)
 
 
+```html
+<h1>Some HTML code I'm proud of</h1>
+
+<div id="birdFeature" class="feature">
+ <div class="text">
+ <h2>BIRD GOODIES</h2>
+ <div class="subHeading">POLLY WANT A CRACKER?</div>
+ <hr />
+ <p>Keep your birds chipper with our yummy snacks and handy feeders.</p>
+ <div class="spacer v40"></div>
+ <a href="">CLICK FOR BIRDS</a>
+</div>
+
+```
+```css
+.proud-of-this-css 
+
+.feature .leftColumn .text a.emailLink,
+.feature .leftColumn .text a.emailLink {
+    color: white;
+    text-decoration: none;
+    transition: none;
+    padding: 10px;
+    border: 0;
+    background-color: #5DA2D5;
+```
+```js
+const proudOfThisFunc = 
+
+this.initialisePromo = function () {
+        let promoItems = $("#promo > div");
+        this.promoBar.promoItems = promoItems;
+        this.promoBar.numberOfItems = promoItems.length;
+        this.startDelay();
+    }
+```
+
+
 ## Features
 
 - Interactive behaviors
@@ -19,17 +57,7 @@ Interactive and Dynamic 'Pet Shop' website that can handle customized user inter
 - Fullscreen mode
 - Cross platform
 
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Background | ![#D2FDFF](https://via.placeholder.com/10/D2FDFF?text=+) #D2FDFF |
-| Primary Text | ![#303C6C](https://via.placeholder.com/10/303C6C?text=+) #303C6C |
-| Secondary Text | ![#B4DFE5](https://via.placeholder.com/10/B4DFE5?text=+) #B4DFE5 |
-|  Selected Stylized Elements | ![#F4976C](https://via.placeholder.com/10/F4976C?text=+) #F4976C |
-
-
 ## Authors Notes
 
- - This was a very fun, beginner friendly project I made with the inspiration of DK books and my dog Oswald! This is still ongoing with a server-side template and JQuery being added to target HTML elements.  
+ This was a very fun, beginner friendly project I made with the inspiration of DK books and my dog Oswald! This is still ongoing with a server-side template and JQuery being added to target HTML elements.  
 
